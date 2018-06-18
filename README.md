@@ -22,22 +22,24 @@ The following types of comments precede many of the rules
 In the following, you will find the complete outline of the organized rules. The outline reflects the directory structure
 under the `PdfFiles` directory. If you seek a human readable outline, please view the [README.txt](README.txt) file.
 
-# 1 Algebraic functions
+# Rubi Integration Rules
 
-## 1.1 Binomial products
+## 1 Algebraic functions
 
-### 1.1.1 Linear
+### 1.1 Binomial products
+
+#### 1.1.1 Linear
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.1 Linear/1.1.1.1 (a+b x)^m.pdf">1.1.1.1 (a+b x)^m</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.1 Linear/1.1.1.2 (a+b x)^m (c+d x)^n.pdf">1.1.1.2 (a+b x)^m (c+d x)^n</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.1 Linear/1.1.1.3 (a+b x)^m (c+d x)^n (e+f x)^p.pdf">1.1.1.3 (a+b x)^m (c+d x)^n (e+f x)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.1 Linear/1.1.1.4 (a+b x)^m (c+d x)^n (e+f x)^p (g+h x)^q.pdf">1.1.1.4 (a+b x)^m (c+d x)^n (e+f x)^p (g+h x)^q</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.1 Linear/1.1.1.5 P(x) (a+b x)^m (c+d x)^n.pdf">1.1.1.5 P(x) (a+b x)^m (c+d x)^n</a>
 
-### 1.1.2 Quadratic
+#### 1.1.2 Quadratic
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.2 Quadratic/1.1.2.x P(x) (a+b x^2)^p.pdf">1.1.2.x P(x) (a+b x^2)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.2 Quadratic/1.1.2.y P(x) (c x)^m (a+b x^2)^p.pdf">1.1.2.y P(x) (c x)^m (a+b x^2)^p</a>
 
-### 1.1.3 General
+#### 1.1.3 General
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.3 General/1.1.3.1 (a+b x^n)^p.pdf">1.1.3.1 (a+b x^n)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.3 General/1.1.3.2 (c x)^m (a+b x^n)^p.pdf">1.1.3.2 (c x)^m (a+b x^n)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.3 General/1.1.3.3 (a+b x^n)^p (c+d x^n)^q.pdf">1.1.3.3 (a+b x^n)^p (c+d x^n)^q</a>
@@ -47,15 +49,15 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.3 General/1.1.3.7 P(x) (a+b x^n)^p.pdf">1.1.3.7 P(x) (a+b x^n)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.3 General/1.1.3.8 P(x) (c x)^m (a+b x^n)^p.pdf">1.1.3.8 P(x) (c x)^m (a+b x^n)^p</a>
 
-### 1.1.4 Improper
+#### 1.1.4 Improper
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.4 Improper/1.1.4.1 (a x^j+b x^n)^p.pdf">1.1.4.1 (a x^j+b x^n)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.4 Improper/1.1.4.2 (c x)^m (a x^j+b x^n)^p.pdf">1.1.4.2 (c x)^m (a x^j+b x^n)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.4 Improper/1.1.4.3 (e x)^m (a x^j+b x^k)^p (c+d x^n)^q.pdf">1.1.4.3 (e x)^m (a x^j+b x^k)^p (c+d x^n)^q</a>
 * <a href="PdfFiles/1 Algebraic functions/1.1 Binomial products/1.1.4 Improper/1.1.4.4 P(x) (c x)^m (a x^j+b x^n)^p.pdf">1.1.4.4 P(x) (c x)^m (a x^j+b x^n)^p</a>
 
-## 1.2 Trinomial products
+### 1.2 Trinomial products
 
-### 1.2.1 Quadratic
+#### 1.2.1 Quadratic
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.1 Quadratic/1.2.1.1 (a+b x+c x^2)^p.pdf">1.2.1.1 (a+b x+c x^2)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.1 Quadratic/1.2.1.2 (d+e x)^m (a+b x+c x^2)^p.pdf">1.2.1.2 (d+e x)^m (a+b x+c x^2)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.1 Quadratic/1.2.1.3 (d+e x)^m (f+g x) (a+b x+c x^2)^p.pdf">1.2.1.3 (d+e x)^m (f+g x) (a+b x+c x^2)^p</a>
@@ -66,7 +68,7 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.1 Quadratic/1.2.1.8 P(x) (a+b x+c x^2)^p.pdf">1.2.1.8 P(x) (a+b x+c x^2)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.1 Quadratic/1.2.1.9 P(x) (d+e x)^m (a+b x+c x^2)^p.pdf">1.2.1.9 P(x) (d+e x)^m (a+b x+c x^2)^p</a>
 
-### 1.2.2 Quartic
+#### 1.2.2 Quartic
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.2 Quartic/1.2.2.1 (a+b x^2+c x^4)^p.pdf">1.2.2.1 (a+b x^2+c x^4)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.2 Quartic/1.2.2.2 (d x)^m (a+b x^2+c x^4)^p.pdf">1.2.2.2 (d x)^m (a+b x^2+c x^4)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.2 Quartic/1.2.2.3 (d+e x^2)^q (a+b x^2+c x^4)^p.pdf">1.2.2.3 (d+e x^2)^q (a+b x^2+c x^4)^p</a>
@@ -75,7 +77,7 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.2 Quartic/1.2.2.6 P(x) (d x)^m (a+b x^2+c x^4)^p.pdf">1.2.2.6 P(x) (d x)^m (a+b x^2+c x^4)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.2 Quartic/1.2.2.7 P(x) (d+e x^2)^q (a+b x^2+c x^4)^p.pdf">1.2.2.7 P(x) (d+e x^2)^q (a+b x^2+c x^4)^p</a>
 
-### 1.2.3 General
+#### 1.2.3 General
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.3 General/1.2.3.1 (a+b x^n+c x^(2 n))^p.pdf">1.2.3.1 (a+b x^n+c x^(2 n))^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.3 General/1.2.3.2 (d x)^m (a+b x^n+c x^(2 n))^p.pdf">1.2.3.2 (d x)^m (a+b x^n+c x^(2 n))^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.3 General/1.2.3.3 (d+e x^n)^q (a+b x^n+c x^(2 n))^p.pdf">1.2.3.3 (d+e x^n)^q (a+b x^n+c x^(2 n))^p</a>
@@ -83,33 +85,33 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.3 General/1.2.3.5 P(x) (a+b x^n+c x^(2 n))^p.pdf">1.2.3.5 P(x) (a+b x^n+c x^(2 n))^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.3 General/1.2.3.6 P(x) (d x)^m (a+b x^n+c x^(2 n))^p.pdf">1.2.3.6 P(x) (d x)^m (a+b x^n+c x^(2 n))^p</a>
 
-### 1.2.4 Improper
+#### 1.2.4 Improper
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.4 Improper/1.2.4.1 (a x^q+b x^n+c x^(2 n-q))^p.pdf">1.2.4.1 (a x^q+b x^n+c x^(2 n-q))^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.4 Improper/1.2.4.2 (d x)^m (a x^q+b x^n+c x^(2 n-q))^p.pdf">1.2.4.2 (d x)^m (a x^q+b x^n+c x^(2 n-q))^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.4 Improper/1.2.4.3 (d+e x^(n-q)) (a x^q+b x^n+c x^(2 n-q))^p.pdf">1.2.4.3 (d+e x^(n-q)) (a x^q+b x^n+c x^(2 n-q))^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.2 Trinomial products/1.2.4 Improper/1.2.4.4 (f x)^m (d+e x^(n-q)) (a x^q+b x^n+c x^(2 n-q))^p.pdf">1.2.4.4 (f x)^m (d+e x^(n-q)) (a x^q+b x^n+c x^(2 n-q))^p</a>
 
-## 1.3 Miscellaneous
+### 1.3 Miscellaneous
 * <a href="PdfFiles/1 Algebraic functions/1.3 Miscellaneous/1.3.1 P(x)^p.pdf">1.3.1 P(x)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.3 Miscellaneous/1.3.2 P(x) Q(x)^p.pdf">1.3.2 P(x) Q(x)^p</a>
 * <a href="PdfFiles/1 Algebraic functions/1.3 Miscellaneous/1.3.3 Miscellaneous algebraic functions.pdf">1.3.3 Miscellaneous algebraic functions</a>
 * <a href="PdfFiles/1 Algebraic functions/1.3 Miscellaneous/1.3.4 Normalizing algebraic functions.pdf">1.3.4 Normalizing algebraic functions</a>
 
-# 2 Exponentials
+## 2 Exponentials
 * <a href="PdfFiles/2 Exponentials/2.1 (c+d x)^m (a+b (F^(g (e+f x)))^n)^p.pdf">2.1 (c+d x)^m (a+b (F^(g (e+f x)))^n)^p</a>
 * <a href="PdfFiles/2 Exponentials/2.2 (c+d x)^m (F^(g (e+f x)))^n (a+b (F^(g (e+f x)))^n)^p.pdf">2.2 (c+d x)^m (F^(g (e+f x)))^n (a+b (F^(g (e+f x)))^n)^p</a>
 * <a href="PdfFiles/2 Exponentials/2.3 Miscellaneous exponentials.pdf">2.3 Miscellaneous exponentials</a>
 
-# 3 Logarithms
+## 3 Logarithms
 * <a href="PdfFiles/3 Logarithms/3.1 u (a+b log(c x^n))^p.pdf">3.1 u (a+b log(c x^n))^p</a>
 * <a href="PdfFiles/3 Logarithms/3.2 u (a+b log(c (d+e x)^n))^p.pdf">3.2 u (a+b log(c (d+e x)^n))^p</a>
 * <a href="PdfFiles/3 Logarithms/3.3 u (a+b log(c (d+e x^m)^n))^p.pdf">3.3 u (a+b log(c (d+e x^m)^n))^p</a>
 * <a href="PdfFiles/3 Logarithms/3.4 u log(e (f (a+b x)^p (c+d x)^q)^r)^s.pdf">3.4 u log(e (f (a+b x)^p (c+d x)^q)^r)^s</a>
 * <a href="PdfFiles/3 Logarithms/3.5 Miscellaneous logarithms.pdf">3.5 Miscellaneous logarithms</a>
 
-# 4 Trig functions
+## 4 Trig functions
 
-## 4.1 Sine
+### 4.1 Sine
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.0.1 (a sin)^m (b trg)^n.pdf">4.1.0.1 (a sin)^m (b trg)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.0.2 (a trg)^m (b tan)^n.pdf">4.1.0.2 (a trg)^m (b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.0.3 (a csc)^m (b sec)^n.pdf">4.1.0.3 (a csc)^m (b sec)^n</a>
@@ -132,7 +134,7 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.8 trig^m (a+b cos^p+c sin^q)^n.pdf">4.1.8 trig^m (a+b cos^p+c sin^q)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.9 trig^m (a+b sin^n+c sin^(2 n))^p.pdf">4.1.9 trig^m (a+b sin^n+c sin^(2 n))^p</a>
 
-## 4.2 Tangent
+### 4.2 Tangent
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.10 (c+d x)^m (a+b tan)^n.pdf">4.2.10 (c+d x)^m (a+b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.1.1 (a+b tan)^n.pdf">4.2.1.1 (a+b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.11 (e x)^m (a+b tan(c+d x^n))^p.pdf">4.2.11 (e x)^m (a+b tan(c+d x^n))^p</a>
@@ -147,7 +149,7 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.7 (d trig)^m (a+b (c tan)^n)^p.pdf">4.2.7 (d trig)^m (a+b (c tan)^n)^p</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.9 trig^m (a+b tan^n+c tan^(2 n))^p.pdf">4.2.9 trig^m (a+b tan^n+c tan^(2 n))^p</a>
 
-## 4.3 Secant
+### 4.3 Secant
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.10 (c+d x)^m (a+b sec)^n.pdf">4.3.10 (c+d x)^m (a+b sec)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.1.1 (a+b sec)^n.pdf">4.3.1.1 (a+b sec)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.11 (e x)^m (a+b sec(c+d x^n))^p.pdf">4.3.11 (e x)^m (a+b sec(c+d x^n))^p</a>
@@ -162,7 +164,7 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.7 (d trig)^m (a+b (c sec)^n)^p.pdf">4.3.7 (d trig)^m (a+b (c sec)^n)^p</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.9 trig^m (a+b sec^n+c sec^(2 n))^p.pdf">4.3.9 trig^m (a+b sec^n+c sec^(2 n))^p</a>
 
-## 4.4 Miscellaneous
+### 4.4 Miscellaneous
 * <a href="PdfFiles/4 Trig functions/4.4 Miscellaneous/4.1 Sine normalization rules.pdf">4.1 Sine normalization rules</a>
 * <a href="PdfFiles/4 Trig functions/4.4 Miscellaneous/4.2 Tangent normalization rules.pdf">4.2 Tangent normalization rules</a>
 * <a href="PdfFiles/4 Trig functions/4.4 Miscellaneous/4.3 Secant normalization rules.pdf">4.3 Secant normalization rules</a>
@@ -173,9 +175,9 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.4 Miscellaneous/4.4.7 u trig(a+b log(c x^n))^p.pdf">4.4.7 u trig(a+b log(c x^n))^p</a>
 * <a href="PdfFiles/4 Trig functions/4.4 Miscellaneous/4.4.8 Active trig functions.pdf">4.4.8 Active trig functions</a>
 
-# 5 Inverse trig functions
+## 5 Inverse trig functions
 
-## 5.1 Inverse sine
+### 5.1 Inverse sine
 * <a href="PdfFiles/5 Inverse trig functions/5.1 Inverse sine/5.1.1 (a+b arcsin(c x))^n.pdf">5.1.1 (a+b arcsin(c x))^n</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.1 Inverse sine/5.1.2 (d x)^m (a+b arcsin(c x))^n.pdf">5.1.2 (d x)^m (a+b arcsin(c x))^n</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.1 Inverse sine/5.1.3 (d+e x^2)^p (a+b arcsin(c x))^n.pdf">5.1.3 (d+e x^2)^p (a+b arcsin(c x))^n</a>
@@ -183,42 +185,42 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/5 Inverse trig functions/5.1 Inverse sine/5.1.5 u (a+b arcsin(c x))^n.pdf">5.1.5 u (a+b arcsin(c x))^n</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.1 Inverse sine/5.1.6 Miscellaneous inverse sine.pdf">5.1.6 Miscellaneous inverse sine</a>
 
-## 5.2 Inverse tangent
+### 5.2 Inverse tangent
 * <a href="PdfFiles/5 Inverse trig functions/5.2 Inverse tangent/5.2.1 u (a+b arctan(c x^n))^p.pdf">5.2.1 u (a+b arctan(c x^n))^p</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.2 Inverse tangent/5.2.2 u (a+b arctan(c+d x))^p.pdf">5.2.2 u (a+b arctan(c+d x))^p</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.2 Inverse tangent/5.2.3 Exponentials of inverse tangent.pdf">5.2.3 Exponentials of inverse tangent</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.2 Inverse tangent/5.2.4 Miscellaneous inverse tangent.pdf">5.2.4 Miscellaneous inverse tangent</a>
 
-## 5.3 Inverse secant
+### 5.3 Inverse secant
 * <a href="PdfFiles/5 Inverse trig functions/5.3 Inverse secant/5.3.1 u (a+b arcsec(c x))^n.pdf">5.3.1 u (a+b arcsec(c x))^n</a>
 * <a href="PdfFiles/5 Inverse trig functions/5.3 Inverse secant/5.3.2 Miscellaneous inverse secant.pdf">5.3.2 Miscellaneous inverse secant</a>
 
-# 6 Hyperbolic functions
+## 6 Hyperbolic functions
 
-## 6.1 Hyperbolic sine
+### 6.1 Hyperbolic sine
 * <a href="PdfFiles/6 Hyperbolic functions/6.1 Hyperbolic sine/6.1.10 (c+d x)^m (a+b sinh)^n.pdf">6.1.10 (c+d x)^m (a+b sinh)^n</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.1 Hyperbolic sine/6.1.11 (e x)^m (a+b x^n)^p sinh.pdf">6.1.11 (e x)^m (a+b x^n)^p sinh</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.1 Hyperbolic sine/6.1.12 (e x)^m (a+b sinh(c+d x^n))^p.pdf">6.1.12 (e x)^m (a+b sinh(c+d x^n))^p</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.1 Hyperbolic sine/6.1.13 (d+e x)^m sinh(a+b x+c x^2)^n.pdf">6.1.13 (d+e x)^m sinh(a+b x+c x^2)^n</a>
 
-## 6.2 Hyperbolic tangent
+### 6.2 Hyperbolic tangent
 * <a href="PdfFiles/6 Hyperbolic functions/6.2 Hyperbolic tangent/6.2.10 (c+d x)^m (a+b tanh)^n.pdf">6.2.10 (c+d x)^m (a+b tanh)^n</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.2 Hyperbolic tangent/6.2.11 (e x)^m (a+b tanh(c+d x^n))^p.pdf">6.2.11 (e x)^m (a+b tanh(c+d x^n))^p</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.2 Hyperbolic tangent/6.2.12 (d+e x)^m tanh(a+b x+c x^2)^n.pdf">6.2.12 (d+e x)^m tanh(a+b x+c x^2)^n</a>
 
-## 6.3 Hyperbolic secant
+### 6.3 Hyperbolic secant
 * <a href="PdfFiles/6 Hyperbolic functions/6.3 Hyperbolic secant/6.3.10 (c+d x)^m (a+b sech)^n.pdf">6.3.10 (c+d x)^m (a+b sech)^n</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.3 Hyperbolic secant/6.3.11 (e x)^m (a+b sech(c+d x^n))^p.pdf">6.3.11 (e x)^m (a+b sech(c+d x^n))^p</a>
 
-## 6.4 Miscellaneous
+### 6.4 Miscellaneous
 * <a href="PdfFiles/6 Hyperbolic functions/6.4 Miscellaneous/6.4.5 (c+d x)^m hyper(a+b x)^n hyper(a+b x)^p.pdf">6.4.5 (c+d x)^m hyper(a+b x)^n hyper(a+b x)^p</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.4 Miscellaneous/6.4.6 F^(c (a+b x)) hyper(d+e x)^n.pdf">6.4.6 F^(c (a+b x)) hyper(d+e x)^n</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.4 Miscellaneous/6.4.7 u hyper(a+b log(c x^n))^p.pdf">6.4.7 u hyper(a+b log(c x^n))^p</a>
 * <a href="PdfFiles/6 Hyperbolic functions/6.4 Miscellaneous/6.4.8 Active hyperbolic functions.pdf">6.4.8 Active hyperbolic functions</a>
 
-# 7 Inverse hyperbolic functions
+## 7 Inverse hyperbolic functions
 
-## 7.1 Inverse hyperbolic sine
+### 7.1 Inverse hyperbolic sine
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.1 Inverse hyperbolic sine/7.1.1 (a+b arcsinh(c x))^n.pdf">7.1.1 (a+b arcsinh(c x))^n</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.1 Inverse hyperbolic sine/7.1.2 (d x)^m (a+b arcsinh(c x))^n.pdf">7.1.2 (d x)^m (a+b arcsinh(c x))^n</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.1 Inverse hyperbolic sine/7.1.3 (d+e x^2)^p (a+b arcsinh(c x))^n.pdf">7.1.3 (d+e x^2)^p (a+b arcsinh(c x))^n</a>
@@ -226,17 +228,17 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.1 Inverse hyperbolic sine/7.1.5 u (a+b arcsinh(c x))^n.pdf">7.1.5 u (a+b arcsinh(c x))^n</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.1 Inverse hyperbolic sine/7.1.6 Miscellaneous inverse hyperbolic sine.pdf">7.1.6 Miscellaneous inverse hyperbolic sine</a>
 
-## 7.2 Inverse hyperbolic tangent
+### 7.2 Inverse hyperbolic tangent
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.2 Inverse hyperbolic tangent/7.2.1 u (a+b arctanh(c x^n))^p.pdf">7.2.1 u (a+b arctanh(c x^n))^p</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.2 Inverse hyperbolic tangent/7.2.2 u (a+b arctanh(c+d x))^p.pdf">7.2.2 u (a+b arctanh(c+d x))^p</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.2 Inverse hyperbolic tangent/7.2.3 Exponentials of inverse hyperbolic tangent.pdf">7.2.3 Exponentials of inverse hyperbolic tangent</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.2 Inverse hyperbolic tangent/7.2.4 Miscellaneous inverse hyperbolic tangent.pdf">7.2.4 Miscellaneous inverse hyperbolic tangent</a>
 
-## 7.3 Inverse hyperbolic secant
+### 7.3 Inverse hyperbolic secant
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.3 Inverse hyperbolic secant/7.3.1 u (a+b arcsech(c x))^n.pdf">7.3.1 u (a+b arcsech(c x))^n</a>
 * <a href="PdfFiles/7 Inverse hyperbolic functions/7.3 Inverse hyperbolic secant/7.3.2 Miscellaneous inverse hyperbolic secant.pdf">7.3.2 Miscellaneous inverse hyperbolic secant</a>
 
-# 8 Special functions
+## 8 Special functions
 * <a href="PdfFiles/8 Special functions/8.1 Error functions.pdf">8.1 Error functions</a>
 * <a href="PdfFiles/8 Special functions/8.2 Fresnel integral functions.pdf">8.2 Fresnel integral functions</a>
 * <a href="PdfFiles/8 Special functions/8.3 Exponential integral functions.pdf">8.3 Exponential integral functions</a>
@@ -247,7 +249,7 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/8 Special functions/8.8 Polylogarithm function.pdf">8.8 Polylogarithm function</a>
 * <a href="PdfFiles/8 Special functions/8.9 Product logarithm function.pdf">8.9 Product logarithm function</a>
 
-# 9 Miscellaneous
+## 9 Miscellaneous
 * <a href="PdfFiles/9 Miscellaneous/9.1 Integrand simplification rules.pdf">9.1 Integrand simplification rules</a>
 * <a href="PdfFiles/9 Miscellaneous/9.2 Derivative integration rules.pdf">9.2 Derivative integration rules</a>
 * <a href="PdfFiles/9 Miscellaneous/9.3 Piecewise linear functions.pdf">9.3 Piecewise linear functions</a>
