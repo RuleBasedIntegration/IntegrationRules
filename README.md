@@ -115,12 +115,8 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.0.1 (a sin)^m (b trg)^n.pdf">4.1.0.1 (a sin)^m (b trg)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.0.2 (a trg)^m (b tan)^n.pdf">4.1.0.2 (a trg)^m (b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.0.3 (a csc)^m (b sec)^n.pdf">4.1.0.3 (a csc)^m (b sec)^n</a>
-* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.10 (c+d x)^m (a+b sin)^n.pdf">4.1.10 (c+d x)^m (a+b sin)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.1.1 (a+b sin)^n.pdf">4.1.1.1 (a+b sin)^n</a>
-* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.11 (e x)^m (a+b x^n)^p sin.pdf">4.1.11 (e x)^m (a+b x^n)^p sin</a>
-* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.12 (e x)^m (a+b sin(c+d x^n))^p.pdf">4.1.12 (e x)^m (a+b sin(c+d x^n))^p</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.1.2 (g cos)^p (a+b sin)^m.pdf">4.1.1.2 (g cos)^p (a+b sin)^m</a>
-* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.13 (d+e x)^m sin(a+b x+c x^2)^n.pdf">4.1.13 (d+e x)^m sin(a+b x+c x^2)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.1.3 (g tan)^p (a+b sin)^m.pdf">4.1.1.3 (g tan)^p (a+b sin)^m</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.2.1 (a+b sin)^m (c+d sin)^n.pdf">4.1.2.1 (a+b sin)^m (c+d sin)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.2.2 (g cos)^p (a+b sin)^m (c+d sin)^n.pdf">4.1.2.2 (g cos)^p (a+b sin)^m (c+d sin)^n</a>
@@ -133,12 +129,13 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.7 (d trig)^m (a+b (c sin)^n)^p.pdf">4.1.7 (d trig)^m (a+b (c sin)^n)^p</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.8 trig^m (a+b cos^p+c sin^q)^n.pdf">4.1.8 trig^m (a+b cos^p+c sin^q)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.9 trig^m (a+b sin^n+c sin^(2 n))^p.pdf">4.1.9 trig^m (a+b sin^n+c sin^(2 n))^p</a>
+* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.10 (c+d x)^m (a+b sin)^n.pdf">4.1.10 (c+d x)^m (a+b sin)^n</a>
+* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.11 (e x)^m (a+b x^n)^p sin.pdf">4.1.11 (e x)^m (a+b x^n)^p sin</a>
+* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.12 (e x)^m (a+b sin(c+d x^n))^p.pdf">4.1.12 (e x)^m (a+b sin(c+d x^n))^p</a>
+* <a href="PdfFiles/4 Trig functions/4.1 Sine/4.1.13 (d+e x)^m sin(a+b x+c x^2)^n.pdf">4.1.13 (d+e x)^m sin(a+b x+c x^2)^n</a>
 
 ### 4.2 Tangent
-* <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.10 (c+d x)^m (a+b tan)^n.pdf">4.2.10 (c+d x)^m (a+b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.1.1 (a+b tan)^n.pdf">4.2.1.1 (a+b tan)^n</a>
-* <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.11 (e x)^m (a+b tan(c+d x^n))^p.pdf">4.2.11 (e x)^m (a+b tan(c+d x^n))^p</a>
-* <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.12 (d+e x)^m tan(a+b x+c x^2)^n.pdf">4.2.12 (d+e x)^m tan(a+b x+c x^2)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.1.2 (d sec)^m (a+b tan)^n.pdf">4.2.1.2 (d sec)^m (a+b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.1.3 (d sin)^m (a+b tan)^n.pdf">4.2.1.3 (d sin)^m (a+b tan)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.2.1 (a+b tan)^m (c+d tan)^n.pdf">4.2.2.1 (a+b tan)^m (c+d tan)^n</a>
@@ -148,11 +145,12 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.4.2 (a+b tan)^m (c+d tan)^n (A+B tan+C tan^2).pdf">4.2.4.2 (a+b tan)^m (c+d tan)^n (A+B tan+C tan^2)</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.7 (d trig)^m (a+b (c tan)^n)^p.pdf">4.2.7 (d trig)^m (a+b (c tan)^n)^p</a>
 * <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.9 trig^m (a+b tan^n+c tan^(2 n))^p.pdf">4.2.9 trig^m (a+b tan^n+c tan^(2 n))^p</a>
+* <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.10 (c+d x)^m (a+b tan)^n.pdf">4.2.10 (c+d x)^m (a+b tan)^n</a>
+* <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.11 (e x)^m (a+b tan(c+d x^n))^p.pdf">4.2.11 (e x)^m (a+b tan(c+d x^n))^p</a>
+* <a href="PdfFiles/4 Trig functions/4.2 Tangent/4.2.12 (d+e x)^m tan(a+b x+c x^2)^n.pdf">4.2.12 (d+e x)^m tan(a+b x+c x^2)^n</a>
 
 ### 4.3 Secant
-* <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.10 (c+d x)^m (a+b sec)^n.pdf">4.3.10 (c+d x)^m (a+b sec)^n</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.1.1 (a+b sec)^n.pdf">4.3.1.1 (a+b sec)^n</a>
-* <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.11 (e x)^m (a+b sec(c+d x^n))^p.pdf">4.3.11 (e x)^m (a+b sec(c+d x^n))^p</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.1.2 (d sec)^n (a+b sec)^m.pdf">4.3.1.2 (d sec)^n (a+b sec)^m</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.1.3 (d sin)^n (a+b sec)^m.pdf">4.3.1.3 (d sin)^n (a+b sec)^m</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.1.4 (d tan)^n (a+b sec)^m.pdf">4.3.1.4 (d tan)^n (a+b sec)^m</a>
@@ -163,6 +161,8 @@ under the `PdfFiles` directory. If you seek a human readable outline, please vie
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.4.2 (a+b sec)^m (d sec)^n (A+B sec+C sec^2).pdf">4.3.4.2 (a+b sec)^m (d sec)^n (A+B sec+C sec^2)</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.7 (d trig)^m (a+b (c sec)^n)^p.pdf">4.3.7 (d trig)^m (a+b (c sec)^n)^p</a>
 * <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.9 trig^m (a+b sec^n+c sec^(2 n))^p.pdf">4.3.9 trig^m (a+b sec^n+c sec^(2 n))^p</a>
+* <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.10 (c+d x)^m (a+b sec)^n.pdf">4.3.10 (c+d x)^m (a+b sec)^n</a>
+* <a href="PdfFiles/4 Trig functions/4.3 Secant/4.3.11 (e x)^m (a+b sec(c+d x^n))^p.pdf">4.3.11 (e x)^m (a+b sec(c+d x^n))^p</a>
 
 ### 4.4 Miscellaneous
 * <a href="PdfFiles/4 Trig functions/4.4 Miscellaneous/4.1 Sine normalization rules.pdf">4.1 Sine normalization rules</a>
